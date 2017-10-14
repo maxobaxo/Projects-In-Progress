@@ -5,6 +5,7 @@ Working projects for Max Scher
 This is my repository for ideas I would like to develop in the future.
 
 #### General
+* A [React-Redux app](https://github.com/maxobaxo/d-and-d-form) that allows users to create their own character a la Dungeons & Dragons, with specific attributes and alignment.
 * An app that consolidates theatrical box office data from across the country and displays data sets inuitively, allowing box office performance comparisons between a select group of theaters.
 * Commercial website for a Kombucha company using Wordpress, allowing for detailed company offerings information, along with a secure online store that collects customer data and makes said data available for marketing initiatives.
 * Educational flashcard app; user provides key terms and definitions. The UI allows the user to quiz him/her/their-self on relevant information. Target audience = students.
